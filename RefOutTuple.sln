@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutTuple", "RefOutTuple\RefOutTuple.csproj", "{78FB7460-07C3-4821-96D3-CF9C404BCB0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78FB7460-07C3-4821-96D3-CF9C404BCB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FB7460-07C3-4821-96D3-CF9C404BCB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FB7460-07C3-4821-96D3-CF9C404BCB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FB7460-07C3-4821-96D3-CF9C404BCB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20497BAA-A956-420D-A255-6D1F93537FD7}
+	EndGlobalSection
+EndGlobal
